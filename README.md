@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danylo Aksonov</h1>
-<h3 align="center">I am a full stack JS developer!</h3>
+<h3 align="center">I am a full stack JS engineer!</h3>
 
 - 🌱 Exploring **Kubernetes and AI-assisted development tools**
 
